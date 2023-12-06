@@ -1,6 +1,6 @@
-CREATE DATABASE belajar_spring_restful_api;
+CREATE DATABASE springboot_restful_api;
 
-USE belajar_spring_restful_api;
+USE springboot_restful_api;
 
 CREATE TABLE users
 (
